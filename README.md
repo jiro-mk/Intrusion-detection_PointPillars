@@ -23,7 +23,7 @@ Quick hullを実装し、人物の点群と定義エリアの頂点を用いて�
 
 
 
-[PointPillarsの検出例]
+・PointPillarsの検出例
 
 参考：https://github.com/zhulf0804/PointPillars
 
