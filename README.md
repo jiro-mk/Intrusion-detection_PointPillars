@@ -1,6 +1,4 @@
-# Intrusion-detection_PointPillars
-
-●3次元点群での人物検出と侵入検知
+# 3次元点群での人物検出と侵入検知 (Intrusion-detection_PointPillars)
 
 RGBカメラと違い、3Dセンサは暗部でも撮影可能
 
