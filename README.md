@@ -1,8 +1,7 @@
 # 3次元点群での人物検出と侵入検知 (Intrusion-detection_PointPillars)
 
-RGBカメラと違い、3Dセンサは暗部でも撮影可能
-
-→夜間や照明が少ない環境でも正常に作動させることができる
+夜間や照明が少ない環境でも正常に作動させることができる
+→RGBカメラと違い、3Dセンサは暗部でも撮影可能
 
 ## 追加機能(2023/2)
 
@@ -46,8 +45,9 @@ Quick hullを実装し、人物の点群と定義エリアの頂点を用いて�
 ![image](https://user-images.githubusercontent.com/93971055/188312236-a56066cc-89e0-4fe5-b9d2-e5b4588b63e1.png)
 
 
-〇出力
-・csvの例
+## 出力
+
+・csvの出力
 
 ![image](https://user-images.githubusercontent.com/93971055/220100814-8eb912c3-d7cc-45a8-beba-f52d7f09c580.png)
 
