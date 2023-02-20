@@ -4,6 +4,9 @@ RGBカメラと違い、3Dセンサは暗部でも撮影可能
 
 →夜間や照明が少ない環境でも正常に作動させることができる
 
+# 追加機能
+・検出したオブジェクトの個数、時間、バウンディングボックスの位置をフレーム毎に出力
+・検出対象オブジェクトの追加（自転車、自動車）
 
 # 処理
 
@@ -41,7 +44,19 @@ Quick hullを実装し、人物の点群と定義エリアの頂点を用いて�
 ![image](https://user-images.githubusercontent.com/93971055/188312236-a56066cc-89e0-4fe5-b9d2-e5b4588b63e1.png)
 
 
+〇出力
+・csvの例
+
+![image](https://user-images.githubusercontent.com/93971055/220100814-8eb912c3-d7cc-45a8-beba-f52d7f09c580.png)
+
+
+・フレームごとのカウント出力
+--
+
+--
+
 
 # Author
 
 jiro-mk
+
